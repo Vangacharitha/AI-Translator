@@ -27,7 +27,7 @@ Streamlit Frontend  →  n8n Webhook  →  AI Agent Node (Gemini) → Response t
 ## 🖼️ **Snapshot**
 
 
-![<img width="1913" height="928" alt="AI Translator" src="https://github.com/user-attachments/assets/db8a63bd-73a6-462c-9dfc-802c8f191a07" />
+[<img width="1913" height="928" alt="AI Translator" src="https://github.com/user-attachments/assets/db8a63bd-73a6-462c-9dfc-802c8f191a07" />
 )
 
 ---
