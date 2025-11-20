@@ -1,9 +1,3 @@
-Here is your **correct Markdown README** with **proper bold formatting** and a clear place to insert your **screenshots**.
-
-You can copy–paste this directly into GitHub — all bold text will appear correctly.
-
----
-
 # 🌐 **AI-Powered Hindi & Telugu Translation System**
 
 A lightweight and efficient **English-to-Hindi** and **English-to-Telugu** translation application built with **Streamlit**, **n8n**, and **Gemini AI**.
@@ -33,7 +27,7 @@ Streamlit Frontend  →  n8n Webhook  →  AI Agent Node (Gemini) → Response t
 ## 🖼️ **Snapshot**
 
 
-![App Screenshot](<img width="1913" height="928" alt="AI Translator" src="https://github.com/user-attachments/assets/db8a63bd-73a6-462c-9dfc-802c8f191a07" />
+![<img width="1913" height="928" alt="AI Translator" src="https://github.com/user-attachments/assets/db8a63bd-73a6-462c-9dfc-802c8f191a07" />
 )
 
 ---
@@ -114,9 +108,3 @@ streamlit run app.py
 `AI` `Hindi` `Telugu` `Translation` `Streamlit` `n8n` `GeminiAI` `Python` `Automation`
 
 ---
-
-* Add a **table of contents**
-* Add **badges** (GitHub stars, Python version, etc.)
-* Add a **demo video section**
-
-Just tell me!
